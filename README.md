@@ -1,6 +1,6 @@
 # francescomariani
 
-## *under costruction*
+### under costruction
 
 Repo of my Jekyll generated [blog][blog]
 
@@ -9,4 +9,4 @@ Feel free to use all the material published and/or fork it, just remember to giv
 
 ... and do not forget to check my [blog][blog] out !
 
-[blog]: (http://francescomariani.github.io/)
+[blog]: http://francescomariani.github.io/
